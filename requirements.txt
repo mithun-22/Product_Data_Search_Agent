@@ -1,0 +1,8 @@
+streamlit>=1.40,<2
+datasets>=3.0,<5
+pandas>=2.2,<3
+pyarrow>=18,<25
+chromadb>=0.5.23,<2
+google-genai>=1.0,<2
+python-dotenv>=1.0,<2
+tqdm>=4.66,<5

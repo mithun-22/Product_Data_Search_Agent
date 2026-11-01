@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+data/raw/*
+data/processed/*
+database/*.sqlite3*
+chroma_db/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!database/.gitkeep
+!chroma_db/.gitkeep
